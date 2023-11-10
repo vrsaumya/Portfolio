@@ -48,3 +48,9 @@
     border-radius: 2rem;
     
 }
+
+.active {
+    color: #D2042D;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid #D2042D;
+}
